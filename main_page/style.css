@@ -1,0 +1,81 @@
+
+body{
+background-color:gray;
+}
+
+header{
+background-color: black;
+width: 100%;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 20px;
+position: fixed;  
+top: 0;  
+left: 0;  
+padding: 10px;
+}
+
+.navBar .helloThere{
+color: rgb(144, 116, 206);
+font-family: sans-serif;
+}
+
+.navBar a{
+color: white;
+text-decoration: none;
+padding: 10px;
+}
+
+.navBar a:hover{
+color: rgb(96, 148, 216);
+}
+
+.navBar a:hover h1 {
+    color: rgb(144, 116, 206);
+ }
+
+.title{
+
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: rgb(137, 48, 137);
+text-decoration: underline;
+margin-left: 85px;
+
+}
+ 
+.aboutMe .title{
+
+margin-top:170px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: rgb(137, 48, 137);
+text-decoration: underline;
+margin-left: 85px;
+}
+
+p {
+
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: white;
+text-justify: auto;
+margin-left: 85px;
+
+}
+
+a{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-decoration: none;
+color: white;
+}
+
+.contactMe a{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-decoration: none;
+color:white;
+padding: 10px;
+margin-left: 78px;
+
+}
+
+a:hover{
+    color:black;
+}
+
